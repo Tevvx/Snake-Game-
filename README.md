@@ -1,9 +1,4 @@
 # Snake-Game
-This repository contains a classic Snake Game built using Python’s Turtle Graphics module. The project demonstrates the use of modular programming, inheritance, and real-time event handling to create an interactive gaming experience.
-
-
-This is a great project to showcase your foundational Python skills and understanding of Object-Oriented Programming (OOP). Since you're a Data Science student, adding a polished README.md to your GitHub repository is a professional way to display your coding logic.
-
 Project Overview: Classic Snake Game
 This repository contains a classic Snake Game built using Python’s Turtle Graphics module. The project demonstrates the use of modular programming, inheritance, and real-time event handling to create an interactive gaming experience.
 
